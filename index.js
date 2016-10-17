@@ -1,3 +1,3 @@
 function(){
-	fdfdsfscfvfxcvcv
+	alert(fdfdsfscfvfxcvcv);
 }
