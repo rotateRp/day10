@@ -1,7 +1,11 @@
 function(){
 	alert(fdfdsfscfvfxcvcv);
 	alert(fdfdsfscfvfxcvcv);
-	alert(fdfdsfscfvfxcvcv);
+	alert('new4');
+	alert('new4');
+	alert('new4');
+	alert('new4');
+	alert('new4');
 }
 
 function(){
